@@ -1,0 +1,9 @@
+boto3
+langchain
+bedrock_agentcore
+langgraph 
+langgraph-checkpoint-aws 
+langchain-aws
+langchain-openai
+jupyter
+jupyterlab
